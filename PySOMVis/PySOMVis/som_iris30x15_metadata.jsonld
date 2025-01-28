@@ -1,0 +1,17 @@
+{
+    "model": "MiniSom",
+    "parameters": {
+        "x": "x",
+        "y": "y",
+        "input_len": "input_len",
+        "sigma": "sigma=1.0",
+        "learning_rate": "learning_rate=0.5",
+        "decay_function": "decay_function=<function asymptotic_decay at 0x00000183A82ECAF0>",
+        "neighborhood_function": "neighborhood_function='gaussian'",
+        "topology": "topology='rectangular'",
+        "activation_distance": "activation_distance='euclidean'",
+        "random_seed": "random_seed=None"
+    },
+    "training_data": "idata[\"arr\"]",
+    "iterations": 10000
+}
