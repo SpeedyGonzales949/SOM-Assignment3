@@ -6,7 +6,7 @@
         "input_len": "input_len",
         "sigma": "sigma=1.0",
         "learning_rate": "learning_rate=0.5",
-        "decay_function": "decay_function=<function asymptotic_decay at 0x7791bdfcf700>",
+        "decay_function": "decay_function=<function asymptotic_decay at 0x76bb40550700>",
         "neighborhood_function": "neighborhood_function='gaussian'",
         "topology": "topology='rectangular'",
         "activation_distance": "activation_distance='euclidean'",
